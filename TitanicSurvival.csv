@@ -1,0 +1,1310 @@
+survived,sex,age,passengerClass,family_name,given_names
+yes,female,29.0,1st,Allen, Miss. Elisabeth Walton
+yes,male,0.917,1st,Allison, Master. Hudson Trevor
+no,female,2.0,1st,Allison, Miss. Helen Loraine
+no,male,30.0,1st,Allison, Mr. Hudson Joshua Crei
+no,female,25.0,1st,Allison, Mrs. Hudson J C (Bessi
+yes,male,48.0,1st,Anderson, Mr. Harry
+yes,female,63.0,1st,Andrews, Miss. Kornelia Theodos
+no,male,39.0,1st,Andrews, Mr. Thomas Jr
+yes,female,53.0,1st,Appleton, Mrs. Edward Dale (Cha
+no,male,71.0,1st,Artagaveytia, Mr. Ramon
+no,male,47.0,1st,Astor, Col. John Jacob
+yes,female,18.0,1st,Astor, Mrs. John Jacob (Madelei
+yes,female,24.0,1st,Aubart, Mme. Leontine Pauline
+yes,female,26.0,1st,Barber, Miss. Ellen Nellie
+yes,male,80.0,1st,Barkworth, Mr. Algernon Henry W
+no,male,,1st,Baumann, Mr. John D
+no,male,24.0,1st,Baxter, Mr. Quigg Edmond
+yes,female,50.0,1st,Baxter, Mrs. James (Helene DeLa
+yes,female,32.0,1st,Bazzani, Miss. Albina
+no,male,36.0,1st,Beattie, Mr. Thomson
+yes,male,37.0,1st,Beckwith, Mr. Richard Leonard
+yes,female,47.0,1st,Beckwith, Mrs. Richard Leonard
+yes,male,26.0,1st,Behr, Mr. Karl Howell
+yes,female,42.0,1st,Bidois, Miss. Rosalie
+yes,female,29.0,1st,Bird, Miss. Ellen
+no,male,25.0,1st,Birnbaum, Mr. Jakob
+yes,male,25.0,1st,Bishop, Mr. Dickinson H
+yes,female,19.0,1st,Bishop, Mrs. Dickinson H (Helen
+yes,female,35.0,1st,Bissette, Miss. Amelia
+yes,male,28.0,1st,Bjornstrom-Steffansson, Mr. Mau
+no,male,45.0,1st,Blackwell, Mr. Stephen Weart
+yes,male,40.0,1st,Blank, Mr. Henry
+yes,female,30.0,1st,Bonnell, Miss. Caroline
+yes,female,58.0,1st,Bonnell, Miss. Elizabeth
+no,male,42.0,1st,Borebank, Mr. John James
+yes,female,45.0,1st,Bowen, Miss. Grace Scott
+yes,female,22.0,1st,Bowerman, Miss. Elsie Edith
+yes,male,,1st,Bradley, Mr. George (George Ar
+no,male,41.0,1st,Brady, Mr. John Bertram
+no,male,48.0,1st,Brandeis, Mr. Emil
+no,male,,1st,Brewe, Dr. Arthur Jackson
+yes,female,44.0,1st,Brown, Mrs. James Joseph (Marga
+yes,female,59.0,1st,Brown, Mrs. John Murray (Caroli
+yes,female,60.0,1st,Bucknell, Mrs. William Robert (
+yes,female,41.0,1st,Burns, Miss. Elizabeth Margaret
+no,male,45.0,1st,Butt, Major. Archibald Willingh
+no,male,,1st,Cairns, Mr. Alexander
+yes,male,42.0,1st,Calderhead, Mr. Edward Penningt
+yes,female,53.0,1st,Candee, Mrs. Edward (Helen Chur
+yes,male,36.0,1st,Cardeza, Mr. Thomas Drake Marti
+yes,female,58.0,1st,Cardeza, Mrs. James Warburton M
+no,male,33.0,1st,Carlsson, Mr. Frans Olof
+no,male,28.0,1st,Carrau, Mr. Francisco M
+no,male,17.0,1st,Carrau, Mr. Jose Pedro
+yes,male,11.0,1st,Carter, Master. William Thornto
+yes,female,14.0,1st,Carter, Miss. Lucile Polk
+yes,male,36.0,1st,Carter, Mr. William Ernest
+yes,female,36.0,1st,Carter, Mrs. William Ernest (Lu
+no,male,49.0,1st,Case, Mr. Howard Brown
+yes,female,,1st,Cassebeer, Mrs. Henry Arthur Jr
+no,male,36.0,1st,Cavendish, Mr. Tyrell William
+yes,female,76.0,1st,Cavendish, Mrs. Tyrell William
+no,male,46.0,1st,Chaffee, Mr. Herbert Fuller
+yes,female,47.0,1st,Chaffee, Mrs. Herbert Fuller (C
+yes,male,27.0,1st,Chambers, Mr. Norman Campbell
+yes,female,33.0,1st,Chambers, Mrs. Norman Campbell
+yes,female,36.0,1st,Chaudanson, Miss. Victorine
+yes,female,30.0,1st,Cherry, Miss. Gladys
+yes,male,45.0,1st,Chevre, Mr. Paul Romaine
+yes,female,,1st,Chibnall, Mrs. (Edith Martha Bo
+no,male,,1st,Chisholm, Mr. Roderick Robert C
+no,male,27.0,1st,Clark, Mr. Walter Miller
+yes,female,26.0,1st,Clark, Mrs. Walter Miller (Virg
+yes,female,22.0,1st,Cleaver, Miss. Alice
+no,male,,1st,Clifford, Mr. George Quincy
+no,male,47.0,1st,Colley, Mr. Edward Pomeroy
+yes,female,39.0,1st,Compton, Miss. Sara Rebecca
+no,male,37.0,1st,Compton, Mr. Alexander Taylor J
+yes,female,64.0,1st,Compton, Mrs. Alexander Taylor
+yes,female,55.0,1st,Cornell, Mrs. Robert Clifford (
+no,male,,1st,Crafton, Mr. John Bertram
+no,male,70.0,1st,Crosby, Capt. Edward Gifford
+yes,female,36.0,1st,Crosby, Miss. Harriet R
+yes,female,64.0,1st,Crosby, Mrs. Edward Gifford (Ca
+no,male,39.0,1st,Cumings, Mr. John Bradley
+yes,female,38.0,1st,Cumings, Mrs. John Bradley (Flo
+yes,male,51.0,1st,Daly, Mr. Peter Denis
+yes,male,27.0,1st,Daniel, Mr. Robert Williams
+yes,female,33.0,1st,Daniels, Miss. Sarah
+no,male,31.0,1st,Davidson, Mr. Thornton
+yes,female,27.0,1st,Davidson, Mrs. Thornton (Orian
+yes,male,31.0,1st,Dick, Mr. Albert Adrian
+yes,female,17.0,1st,Dick, Mrs. Albert Adrian (Vera
+yes,male,53.0,1st,Dodge, Dr. Washington
+yes,male,4.0,1st,Dodge, Master. Washington
+yes,female,54.0,1st,Dodge, Mrs. Washington (Ruth Vi
+no,male,50.0,1st,Douglas, Mr. Walter Donald
+yes,female,27.0,1st,Douglas, Mrs. Frederick Charles
+yes,female,48.0,1st,Douglas, Mrs. Walter Donald (Ma
+yes,female,48.0,1st,Duff Gordon, Lady. (Lucille Chr
+yes,male,49.0,1st,Duff Gordon, Sir. Cosmo Edmund
+no,male,39.0,1st,Dulles, Mr. William Crothers
+yes,female,23.0,1st,Earnshaw, Mrs. Boulton (Olive P
+yes,female,38.0,1st,Endres, Miss. Caroline Louise
+yes,female,54.0,1st,Eustis, Miss. Elizabeth Mussey
+no,female,36.0,1st,Evans, Miss. Edith Corse
+no,male,,1st,Farthing, Mr. John
+yes,female,,1st,Flegenheim, Mrs. Alfred (Antoin
+yes,female,,1st,Fleming, Miss. Margaret
+yes,male,36.0,1st,Flynn, Mr. John Irwin (Irving
+no,male,30.0,1st,Foreman, Mr. Benjamin Laventall
+yes,female,24.0,1st,Fortune, Miss. Alice Elizabeth
+yes,female,28.0,1st,Fortune, Miss. Ethel Flora
+yes,female,23.0,1st,Fortune, Miss. Mabel Helen
+no,male,19.0,1st,Fortune, Mr. Charles Alexander
+no,male,64.0,1st,Fortune, Mr. Mark
+yes,female,60.0,1st,Fortune, Mrs. Mark (Mary McDoug
+yes,female,30.0,1st,Francatelli, Miss. Laura Mabel
+no,male,,1st,Franklin, Mr. Thomas Parham
+yes,male,50.0,1st,Frauenthal, Dr. Henry William
+yes,male,43.0,1st,Frauenthal, Mr. Isaac Gerald
+yes,female,,1st,Frauenthal, Mrs. Henry William
+yes,female,22.0,1st,Frolicher, Miss. Hedwig Margari
+yes,male,60.0,1st,Frolicher-Stehli, Mr. Maxmillia
+yes,female,48.0,1st,Frolicher-Stehli, Mrs. Maxmilli
+no,male,,1st,Fry, Mr. Richard
+no,male,37.0,1st,Futrelle, Mr. Jacques Heath
+yes,female,35.0,1st,Futrelle, Mrs. Jacques Heath (L
+no,male,47.0,1st,Gee, Mr. Arthur H
+yes,female,35.0,1st,Geiger, Miss. Amalie
+yes,female,22.0,1st,Gibson, Miss. Dorothy Winifred
+yes,female,45.0,1st,Gibson, Mrs. Leonard (Pauline C
+no,male,24.0,1st,Giglio, Mr. Victor
+yes,male,49.0,1st,Goldenberg, Mr. Samuel L
+yes,female,,1st,Goldenberg, Mrs. Samuel L (Edwi
+no,male,71.0,1st,Goldschmidt, Mr. George B
+yes,male,53.0,1st,Gracie, Col. Archibald IV
+yes,female,19.0,1st,Graham, Miss. Margaret Edith
+no,male,38.0,1st,Graham, Mr. George Edward
+yes,female,58.0,1st,Graham, Mrs. William Thompson (
+yes,male,23.0,1st,Greenfield, Mr. William Bertram
+yes,female,45.0,1st,Greenfield, Mrs. Leo David (Bla
+no,male,46.0,1st,Guggenheim, Mr. Benjamin
+yes,male,25.0,1st,Harder, Mr. George Achilles
+yes,female,25.0,1st,Harder, Mrs. George Achilles (D
+yes,male,48.0,1st,Harper, Mr. Henry Sleeper
+yes,female,49.0,1st,Harper, Mrs. Henry Sleeper (Myn
+no,male,,1st,Harrington, Mr. Charles H
+no,male,45.0,1st,Harris, Mr. Henry Birkhardt
+yes,female,35.0,1st,Harris, Mrs. Henry Birkhardt (I
+no,male,40.0,1st,Harrison, Mr. William
+yes,male,27.0,1st,Hassab, Mr. Hammad
+yes,male,,1st,Hawksford, Mr. Walter James
+yes,female,24.0,1st,Hays, Miss. Margaret Bechstein
+no,male,55.0,1st,Hays, Mr. Charles Melville
+yes,female,52.0,1st,Hays, Mrs. Charles Melville (Cl
+no,male,42.0,1st,Head, Mr. Christopher
+no,male,,1st,Hilliard, Mr. Herbert Henry
+no,male,55.0,1st,Hipkins, Mr. William Edward
+yes,female,16.0,1st,Hippach, Miss. Jean Gertrude
+yes,female,44.0,1st,Hippach, Mrs. Louis Albert (Ida
+yes,female,51.0,1st,Hogeboom, Mrs. John C (Anna And
+no,male,42.0,1st,Holverson, Mr. Alexander Oskar
+yes,female,35.0,1st,Holverson, Mrs. Alexander Oskar
+yes,male,35.0,1st,Homer, Mr. Harry (Mr E Haven)
+yes,male,38.0,1st,Hoyt, Mr. Frederick Maxfield
+no,male,,1st,Hoyt, Mr. William Fisher
+yes,female,35.0,1st,Hoyt, Mrs. Frederick Maxfield (
+yes,female,38.0,1st,Icard, Miss. Amelie
+no,female,50.0,1st,Isham, Miss. Ann Elizabeth
+yes,male,49.0,1st,Ismay, Mr. Joseph Bruce
+no,male,46.0,1st,Jones, Mr. Charles Cresson
+no,male,50.0,1st,Julian, Mr. Henry Forbes
+no,male,32.5,1st,Keeping, Mr. Edwin
+no,male,58.0,1st,Kent, Mr. Edward Austin
+no,male,41.0,1st,Kenyon, Mr. Frederick R
+yes,female,,1st,Kenyon, Mrs. Frederick R (Mario
+yes,male,42.0,1st,Kimball, Mr. Edwin Nelson Jr
+yes,female,45.0,1st,Kimball, Mrs. Edwin Nelson Jr (
+no,male,,1st,Klaber, Mr. Herman
+yes,female,39.0,1st,Kreuchen, Miss. Emilie
+yes,female,49.0,1st,Leader, Dr. Alice (Farnham)
+yes,female,30.0,1st,LeRoy, Miss. Bertha
+yes,male,35.0,1st,Lesurer, Mr. Gustave J
+no,male,,1st,Lewy, Mr. Ervin G
+no,male,42.0,1st,Lindeberg-Lind, Mr. Erik Gustaf
+yes,female,55.0,1st,Lindstrom, Mrs. Carl Johan (Sig
+yes,female,16.0,1st,Lines, Miss. Mary Conover
+yes,female,51.0,1st,Lines, Mrs. Ernest H (Elizabeth
+no,male,29.0,1st,Long, Mr. Milton Clyde
+yes,female,21.0,1st,Longley, Miss. Gretchen Fiske
+no,male,30.0,1st,Loring, Mr. Joseph Holland
+yes,female,58.0,1st,Lurette, Miss. Elise
+yes,female,15.0,1st,Madill, Miss. Georgette Alexand
+no,male,30.0,1st,Maguire, Mr. John Edward
+yes,female,16.0,1st,Maioni, Miss. Roberta
+yes,male,,1st,Marechal, Mr. Pierre
+no,male,19.0,1st,Marvin, Mr. Daniel Warner
+yes,female,18.0,1st,Marvin, Mrs. Daniel Warner (Mar
+yes,female,24.0,1st,Mayne, Mlle. Berthe Antonine (
+no,male,46.0,1st,McCaffry, Mr. Thomas Francis
+no,male,54.0,1st,McCarthy, Mr. Timothy J
+yes,male,36.0,1st,McGough, Mr. James Robert
+no,male,28.0,1st,Meyer, Mr. Edgar Joseph
+yes,female,,1st,Meyer, Mrs. Edgar Joseph (Leila
+no,male,65.0,1st,Millet, Mr. Francis Davis
+no,male,44.0,1st,Minahan, Dr. William Edward
+yes,female,33.0,1st,Minahan, Miss. Daisy E
+yes,female,37.0,1st,Minahan, Mrs. William Edward (L
+yes,male,30.0,1st,Mock, Mr. Philipp Edmund
+no,male,55.0,1st,Molson, Mr. Harry Markland
+no,male,47.0,1st,Moore, Mr. Clarence Bloomfield
+no,male,37.0,1st,Natsch, Mr. Charles H
+yes,female,31.0,1st,Newell, Miss. Madeleine
+yes,female,23.0,1st,Newell, Miss. Marjorie
+no,male,58.0,1st,Newell, Mr. Arthur Webster
+yes,female,19.0,1st,Newsom, Miss. Helen Monypeny
+no,male,64.0,1st,Nicholson, Mr. Arthur Ernest
+yes,female,39.0,1st,Oliva y Ocana, Dona. Fermina
+yes,male,,1st,Omont, Mr. Alfred Fernand
+yes,female,22.0,1st,Ostby, Miss. Helene Ragnhild
+no,male,65.0,1st,Ostby, Mr. Engelhart Cornelius
+no,male,28.5,1st,Ovies y Rodriguez, Mr. Servando
+no,male,,1st,Parr, Mr. William Henry Marsh
+no,male,45.5,1st,Partner, Mr. Austen
+no,male,23.0,1st,Payne, Mr. Vivian Ponsonby
+no,male,29.0,1st,Pears, Mr. Thomas Clinton
+yes,female,22.0,1st,Pears, Mrs. Thomas (Edith Wearn
+no,male,18.0,1st,Penasco y Castellana, Mr. Victo
+yes,female,17.0,1st,Penasco y Castellana, Mrs. Vict
+yes,female,30.0,1st,Perreault, Miss. Anne
+yes,male,52.0,1st,Peuchen, Major. Arthur Godfrey
+no,male,47.0,1st,Porter, Mr. Walter Chamberlain
+yes,female,56.0,1st,Potter, Mrs. Thomas Jr (Lily Al
+no,male,38.0,1st,Reuchlin, Jonkheer. John George
+yes,male,,1st,Rheims, Mr. George Alexander Lu
+no,male,22.0,1st,Ringhini, Mr. Sante
+no,male,,1st,Robbins, Mr. Victor
+yes,female,43.0,1st,Robert, Mrs. Edward Scott (Elis
+no,male,31.0,1st,Roebling, Mr. Washington August
+yes,male,45.0,1st,Romaine, Mr. Charles Hallace (
+no,male,,1st,Rood, Mr. Hugh Roscoe
+yes,female,33.0,1st,Rosenbaum, Miss. Edith Louise
+no,male,46.0,1st,Rosenshine, Mr. George (Mr Geo
+no,male,36.0,1st,Ross, Mr. John Hugo
+yes,female,33.0,1st,Rothes, the Countess. of (Lucy
+no,male,55.0,1st,Rothschild, Mr. Martin
+yes,female,54.0,1st,Rothschild, Mrs. Martin (Elizab
+no,male,33.0,1st,Rowe, Mr. Alfred G
+yes,male,13.0,1st,Ryerson, Master. John Borie
+yes,female,18.0,1st,Ryerson, Miss. Emily Borie
+yes,female,21.0,1st,Ryerson, Miss. Susan Parker Su
+no,male,61.0,1st,Ryerson, Mr. Arthur Larned
+yes,female,48.0,1st,Ryerson, Mrs. Arthur Larned (Em
+yes,male,,1st,Saalfeld, Mr. Adolphe
+yes,female,24.0,1st,Sagesser, Mlle. Emma
+yes,male,,1st,Salomon, Mr. Abraham L
+yes,female,35.0,1st,Schabert, Mrs. Paul (Emma Mock)
+yes,female,30.0,1st,Serepeca, Miss. Augusta
+yes,male,34.0,1st,Seward, Mr. Frederic Kimber
+yes,female,40.0,1st,Shutes, Miss. Elizabeth W
+yes,male,35.0,1st,Silverthorne, Mr. Spencer Victo
+no,male,50.0,1st,Silvey, Mr. William Baird
+yes,female,39.0,1st,Silvey, Mrs. William Baird (Ali
+yes,male,56.0,1st,Simonius-Blumer, Col. Oberst Al
+yes,male,28.0,1st,Sloper, Mr. William Thompson
+no,male,56.0,1st,Smart, Mr. John Montgomery
+no,male,56.0,1st,Smith, Mr. James Clinch
+no,male,24.0,1st,Smith, Mr. Lucien Philip
+no,male,,1st,Smith, Mr. Richard William
+yes,female,18.0,1st,Smith, Mrs. Lucien Philip (Mary
+yes,male,24.0,1st,Snyder, Mr. John Pillsbury
+yes,female,23.0,1st,Snyder, Mrs. John Pillsbury (Ne
+yes,male,6.0,1st,Spedden, Master. Robert Douglas
+yes,male,45.0,1st,Spedden, Mr. Frederic Oakley
+yes,female,40.0,1st,Spedden, Mrs. Frederic Oakley (
+no,male,57.0,1st,Spencer, Mr. William Augustus
+yes,female,,1st,Spencer, Mrs. William Augustus
+yes,male,32.0,1st,Stahelin-Maeglin, Dr. Max
+no,male,62.0,1st,Stead, Mr. William Thomas
+yes,male,54.0,1st,Stengel, Mr. Charles Emil Henry
+yes,female,43.0,1st,Stengel, Mrs. Charles Emil Henr
+yes,female,52.0,1st,Stephenson, Mrs. Walter Bertram
+no,male,,1st,Stewart, Mr. Albert A
+yes,female,62.0,1st,Stone, Mrs. George Nelson (Mart
+no,male,67.0,1st,Straus, Mr. Isidor
+no,female,63.0,1st,Straus, Mrs. Isidor (Rosalie Id
+no,male,61.0,1st,Sutton, Mr. Frederick
+yes,female,48.0,1st,Swift, Mrs. Frederick Joel (Mar
+yes,female,18.0,1st,Taussig, Miss. Ruth
+no,male,52.0,1st,Taussig, Mr. Emil
+yes,female,39.0,1st,Taussig, Mrs. Emil (Tillie Mand
+yes,male,48.0,1st,Taylor, Mr. Elmer Zebley
+yes,female,,1st,Taylor, Mrs. Elmer Zebley (Juli
+no,male,49.0,1st,Thayer, Mr. John Borland
+yes,male,17.0,1st,Thayer, Mr. John Borland Jr
+yes,female,39.0,1st,Thayer, Mrs. John Borland (Mari
+yes,female,,1st,Thorne, Mrs. Gertrude Maybelle
+yes,male,31.0,1st,Tucker, Mr. Gilbert Milligan Jr
+no,male,40.0,1st,Uruchurtu, Don. Manuel E
+no,male,61.0,1st,Van der hoef, Mr. Wyckoff
+no,male,47.0,1st,Walker, Mr. William Anderson
+yes,female,35.0,1st,Ward, Miss. Anna
+no,male,64.0,1st,Warren, Mr. Frank Manley
+yes,female,60.0,1st,Warren, Mrs. Frank Manley (Anna
+no,male,60.0,1st,Weir, Col. John
+no,male,54.0,1st,White, Mr. Percival Wayland
+no,male,21.0,1st,White, Mr. Richard Frasar
+yes,female,55.0,1st,White, Mrs. John Stuart (Ella H
+yes,female,31.0,1st,Wick, Miss. Mary Natalie
+no,male,57.0,1st,Wick, Mr. George Dennick
+yes,female,45.0,1st,Wick, Mrs. George Dennick (Mary
+no,male,50.0,1st,Widener, Mr. George Dunton
+no,male,27.0,1st,Widener, Mr. Harry Elkins
+yes,female,50.0,1st,Widener, Mrs. George Dunton (El
+yes,female,21.0,1st,Willard, Miss. Constance
+no,male,51.0,1st,Williams, Mr. Charles Duane
+yes,male,21.0,1st,Williams, Mr. Richard Norris II
+no,male,,1st,Williams-Lambert, Mr. Fletcher
+yes,female,31.0,1st,Wilson, Miss. Helen Alice
+yes,male,,1st,Woolner, Mr. Hugh
+no,male,62.0,1st,Wright, Mr. George
+yes,female,36.0,1st,Young, Miss. Marie Grice
+no,male,30.0,2nd,Abelson, Mr. Samuel
+yes,female,28.0,2nd,Abelson, Mrs. Samuel (Hannah Wi
+no,male,30.0,2nd,Aldworth, Mr. Charles Augustus
+no,male,18.0,2nd,Andrew, Mr. Edgardo Samuel
+no,male,25.0,2nd,Andrew, Mr. Frank Thomas
+no,male,34.0,2nd,Angle, Mr. William A
+yes,female,36.0,2nd,Angle, Mrs. William A (Florence
+no,male,57.0,2nd,Ashby, Mr. John
+no,male,18.0,2nd,Bailey, Mr. Percy Andrew
+no,male,23.0,2nd,Baimbrigge, Mr. Charles Robert
+yes,female,36.0,2nd,Ball, Mrs. (Ada E Hall)
+no,male,28.0,2nd,Banfield, Mr. Frederick James
+no,male,51.0,2nd,Bateman, Rev. Robert James
+yes,male,32.0,2nd,Beane, Mr. Edward
+yes,female,19.0,2nd,Beane, Mrs. Edward (Ethel Clark
+no,male,28.0,2nd,Beauchamp, Mr. Henry James
+yes,male,1.0,2nd,Becker, Master. Richard F
+yes,female,4.0,2nd,Becker, Miss. Marion Louise
+yes,female,12.0,2nd,Becker, Miss. Ruth Elizabeth
+yes,female,36.0,2nd,Becker, Mrs. Allen Oliver (Nell
+yes,male,34.0,2nd,Beesley, Mr. Lawrence
+yes,female,19.0,2nd,Bentham, Miss. Lilian W
+no,male,23.0,2nd,Berriman, Mr. William John
+no,male,26.0,2nd,Botsford, Mr. William Hull
+no,male,42.0,2nd,Bowenur, Mr. Solomon
+no,male,27.0,2nd,Bracken, Mr. James H
+yes,female,24.0,2nd,Brown, Miss. Amelia Mildred
+yes,female,15.0,2nd,Brown, Miss. Edith Eileen
+no,male,60.0,2nd,Brown, Mr. Thomas William Solom
+yes,female,40.0,2nd,Brown, Mrs. Thomas William Solo
+yes,female,20.0,2nd,Bryhl, Miss. Dagmar Jenny Ingeb
+no,male,25.0,2nd,Bryhl, Mr. Kurt Arnold Gottfrid
+yes,female,36.0,2nd,Buss, Miss. Kate
+no,male,25.0,2nd,Butler, Mr. Reginald Fenton
+no,male,42.0,2nd,Byles, Rev. Thomas Roussel Davi
+yes,female,42.0,2nd,Bystrom, Mrs. (Karolina)
+yes,male,0.833,2nd,Caldwell, Master. Alden Gates
+yes,male,26.0,2nd,Caldwell, Mr. Albert Francis
+yes,female,22.0,2nd,Caldwell, Mrs. Albert Francis (
+yes,female,35.0,2nd,Cameron, Miss. Clear Annie
+no,male,,2nd,Campbell, Mr. William
+no,male,19.0,2nd,Carbines, Mr. William
+no,female,44.0,2nd,Carter, Mrs. Ernest Courtenay (
+no,male,54.0,2nd,Carter, Rev. Ernest Courtenay
+no,male,52.0,2nd,Chapman, Mr. Charles Henry
+no,male,37.0,2nd,Chapman, Mr. John Henry
+no,female,29.0,2nd,Chapman, Mrs. John Henry (Sara
+yes,female,25.0,2nd,Christy, Miss. Julie Rachel
+yes,female,45.0,2nd,Christy, Mrs. (Alice Frances)
+no,male,29.0,2nd,Clarke, Mr. Charles Valentine
+yes,female,28.0,2nd,Clarke, Mrs. Charles V (Ada Mar
+no,male,29.0,2nd,Coleridge, Mr. Reginald Charles
+no,male,28.0,2nd,Collander, Mr. Erik Gustaf
+yes,male,24.0,2nd,Collett, Mr. Sidney C Stuart
+yes,female,8.0,2nd,Collyer, Miss. Marjorie Lottie
+no,male,31.0,2nd,Collyer, Mr. Harvey
+yes,female,31.0,2nd,Collyer, Mrs. Harvey (Charlotte
+yes,female,22.0,2nd,Cook, Mrs. (Selena Rogers)
+no,female,30.0,2nd,Corbett, Mrs. Walter H (Irene C
+no,female,,2nd,Corey, Mrs. Percy C (Mary Phyll
+no,male,21.0,2nd,Cotterill, Mr. Henry Harry
+no,male,,2nd,Cunningham, Mr. Alfred Fleming
+yes,male,8.0,2nd,Davies, Master. John Morgan Jr
+no,male,18.0,2nd,Davies, Mr. Charles Henry
+yes,female,48.0,2nd,Davies, Mrs. John Morgan (Eliza
+yes,female,28.0,2nd,Davis, Miss. Mary
+no,male,32.0,2nd,de Brito, Mr. Jose Joaquim
+no,male,17.0,2nd,Deacon, Mr. Percy William
+no,male,29.0,2nd,del Carlo, Mr. Sebastiano
+yes,female,24.0,2nd,del Carlo, Mrs. Sebastiano (Arg
+no,male,25.0,2nd,Denbury, Mr. Herbert
+no,male,18.0,2nd,Dibden, Mr. William
+yes,female,18.0,2nd,Doling, Miss. Elsie
+yes,female,34.0,2nd,Doling, Mrs. John T (Ada Julia
+no,male,54.0,2nd,Downton, Mr. William James
+yes,male,8.0,2nd,Drew, Master. Marshall Brines
+no,male,42.0,2nd,Drew, Mr. James Vivian
+yes,female,34.0,2nd,Drew, Mrs. James Vivian (Lulu T
+yes,female,27.0,2nd,Duran y More, Miss. Asuncion
+yes,female,30.0,2nd,Duran y More, Miss. Florentina
+no,male,23.0,2nd,Eitemiller, Mr. George Floyd
+no,male,21.0,2nd,Enander, Mr. Ingvar
+no,male,18.0,2nd,Fahlstrom, Mr. Arne Jonas
+no,male,40.0,2nd,Faunthorpe, Mr. Harry
+yes,female,29.0,2nd,Faunthorpe, Mrs. Lizzie (Elizab
+no,male,18.0,2nd,Fillbrook, Mr. Joseph Charles
+no,male,36.0,2nd,Fox, Mr. Stanley Hubert
+no,male,,2nd,Frost, Mr. Anthony Wood Archie
+no,female,38.0,2nd,Funk, Miss. Annie Clemmer
+no,male,35.0,2nd,Fynney, Mr. Joseph J
+no,male,38.0,2nd,Gale, Mr. Harry
+no,male,34.0,2nd,Gale, Mr. Shadrach
+yes,female,34.0,2nd,Garside, Miss. Ethel
+no,male,16.0,2nd,Gaskell, Mr. Alfred
+no,male,26.0,2nd,Gavey, Mr. Lawrence
+no,male,47.0,2nd,Gilbert, Mr. William
+no,male,21.0,2nd,Giles, Mr. Edgar
+no,male,21.0,2nd,Giles, Mr. Frederick Edward
+no,male,24.0,2nd,Giles, Mr. Ralph
+no,male,24.0,2nd,Gill, Mr. John William
+no,male,34.0,2nd,Gillespie, Mr. William Henry
+no,male,30.0,2nd,Givard, Mr. Hans Kristensen
+no,male,52.0,2nd,Greenberg, Mr. Samuel
+no,male,30.0,2nd,Hale, Mr. Reginald
+yes,male,0.667,2nd,Hamalainen, Master. Viljo
+yes,female,24.0,2nd,Hamalainen, Mrs. William (Anna)
+no,male,44.0,2nd,Harbeck, Mr. William H
+yes,female,6.0,2nd,Harper, Miss. Annie Jessie Nin
+no,male,28.0,2nd,Harper, Rev. John
+yes,male,62.0,2nd,Harris, Mr. George
+no,male,30.0,2nd,Harris, Mr. Walter
+yes,female,7.0,2nd,Hart, Miss. Eva Miriam
+no,male,43.0,2nd,Hart, Mr. Benjamin
+yes,female,45.0,2nd,Hart, Mrs. Benjamin (Esther Ada
+yes,female,24.0,2nd,Herman, Miss. Alice
+yes,female,24.0,2nd,Herman, Miss. Kate
+no,male,49.0,2nd,Herman, Mr. Samuel
+yes,female,48.0,2nd,Herman, Mrs. Samuel (Jane Laver
+yes,female,55.0,2nd,Hewlett, Mrs. (Mary D Kingcome)
+no,male,24.0,2nd,Hickman, Mr. Leonard Mark
+no,male,32.0,2nd,Hickman, Mr. Lewis
+no,male,21.0,2nd,Hickman, Mr. Stanley George
+no,female,18.0,2nd,Hiltunen, Miss. Marta
+yes,female,20.0,2nd,Hocking, Miss. Ellen Nellie
+no,male,23.0,2nd,Hocking, Mr. Richard George
+no,male,36.0,2nd,Hocking, Mr. Samuel James Metca
+yes,female,54.0,2nd,Hocking, Mrs. Elizabeth (Eliza
+no,male,50.0,2nd,Hodges, Mr. Henry Price
+no,male,44.0,2nd,Hold, Mr. Stephen
+yes,female,29.0,2nd,Hold, Mrs. Stephen (Annie Marga
+no,male,21.0,2nd,Hood, Mr. Ambrose Jr
+yes,male,42.0,2nd,Hosono, Mr. Masabumi
+no,male,63.0,2nd,Howard, Mr. Benjamin
+no,female,60.0,2nd,Howard, Mrs. Benjamin (Ellen Tr
+no,male,33.0,2nd,Hunt, Mr. George Henry
+yes,female,17.0,2nd,Ilett, Miss. Bertha
+no,male,42.0,2nd,Jacobsohn, Mr. Sidney Samuel
+yes,female,24.0,2nd,Jacobsohn, Mrs. Sidney Samuel (
+no,male,47.0,2nd,Jarvis, Mr. John Denzil
+no,male,24.0,2nd,Jefferys, Mr. Clifford Thomas
+no,male,22.0,2nd,Jefferys, Mr. Ernest Wilfred
+no,male,32.0,2nd,Jenkin, Mr. Stephen Curnow
+yes,female,23.0,2nd,Jerwan, Mrs. Amin S (Marie Mart
+no,male,34.0,2nd,Kantor, Mr. Sinai
+yes,female,24.0,2nd,Kantor, Mrs. Sinai (Miriam Ster
+no,female,22.0,2nd,Karnes, Mrs. J Frank (Claire Be
+yes,female,,2nd,Keane, Miss. Nora A
+no,male,35.0,2nd,Keane, Mr. Daniel
+yes,female,45.0,2nd,Kelly, Mrs. Florence Fannie
+no,male,57.0,2nd,Kirkland, Rev. Charles Leonard
+no,male,,2nd,Knight, Mr. Robert J
+no,male,31.0,2nd,Kvillner, Mr. Johan Henrik Joha
+no,female,26.0,2nd,Lahtinen, Mrs. William (Anna Sy
+no,male,30.0,2nd,Lahtinen, Rev. William
+no,male,,2nd,Lamb, Mr. John Joseph
+yes,female,1.0,2nd,Laroche, Miss. Louise
+yes,female,3.0,2nd,Laroche, Miss. Simonne Marie An
+no,male,25.0,2nd,Laroche, Mr. Joseph Philippe Le
+yes,female,22.0,2nd,Laroche, Mrs. Joseph (Juliette
+yes,female,17.0,2nd,Lehmann, Miss. Bertha
+yes,female,,2nd,Leitch, Miss. Jessie Wills
+yes,female,34.0,2nd,Lemore, Mrs. (Amelia Milley)
+no,male,36.0,2nd,Levy, Mr. Rene Jacques
+no,male,24.0,2nd,Leyson, Mr. Robert William Norm
+no,male,61.0,2nd,Lingane, Mr. John
+no,male,50.0,2nd,Louch, Mr. Charles Alexander
+yes,female,42.0,2nd,Louch, Mrs. Charles Alexander (
+no,female,57.0,2nd,Mack, Mrs. (Mary)
+no,male,,2nd,Malachard, Mr. Noel
+yes,male,1.0,2nd,Mallet, Master. Andre
+no,male,31.0,2nd,Mallet, Mr. Albert
+yes,female,24.0,2nd,Mallet, Mrs. Albert (Antoinette
+no,male,,2nd,Mangiavacchi, Mr. Serafino Emil
+no,male,30.0,2nd,Matthews, Mr. William John
+no,male,40.0,2nd,Maybery, Mr. Frank Hubert
+no,male,32.0,2nd,McCrae, Mr. Arthur Gordon
+no,male,30.0,2nd,McCrie, Mr. James Matthew
+no,male,46.0,2nd,McKane, Mr. Peter David
+yes,female,13.0,2nd,Mellinger, Miss. Madeleine Viol
+yes,female,41.0,2nd,Mellinger, Mrs. (Elizabeth Anne
+yes,male,19.0,2nd,Mellors, Mr. William John
+no,male,39.0,2nd,Meyer, Mr. August
+no,male,48.0,2nd,Milling, Mr. Jacob Christian
+no,male,70.0,2nd,Mitchell, Mr. Henry Michael
+no,male,27.0,2nd,Montvila, Rev. Juozas
+no,male,54.0,2nd,Moraweck, Dr. Ernest
+no,male,39.0,2nd,Morley, Mr. Henry Samuel (Mr H
+no,male,16.0,2nd,Mudd, Mr. Thomas Charles
+no,male,62.0,2nd,Myles, Mr. Thomas Francis
+no,male,32.5,2nd,Nasser, Mr. Nicholas
+yes,female,14.0,2nd,Nasser, Mrs. Nicholas (Adele Ac
+yes,male,2.0,2nd,Navratil, Master. Edmond Roger
+yes,male,3.0,2nd,Navratil, Master. Michel M
+no,male,36.5,2nd,Navratil, Mr. Michel (Louis M
+no,male,26.0,2nd,Nesson, Mr. Israel
+no,male,19.0,2nd,Nicholls, Mr. Joseph Charles
+no,male,28.0,2nd,Norman, Mr. Robert Douglas
+yes,male,20.0,2nd,Nourney, Mr. Alfred (Baron von
+yes,female,29.0,2nd,Nye, Mrs. (Elizabeth Ramell)
+no,male,39.0,2nd,Otter, Mr. Richard
+yes,male,22.0,2nd,Oxenham, Mr. Percy Thomas
+yes,male,,2nd,Padro y Manent, Mr. Julian
+no,male,23.0,2nd,Pain, Dr. Alfred
+yes,male,29.0,2nd,Pallas y Castello, Mr. Emilio
+no,male,28.0,2nd,Parker, Mr. Clifford Richard
+no,male,,2nd,Parkes, Mr. Francis Frank
+yes,female,50.0,2nd,Parrish, Mrs. (Lutie Davis)
+no,male,19.0,2nd,Pengelly, Mr. Frederick William
+no,male,,2nd,Pernot, Mr. Rene
+no,male,41.0,2nd,Peruschitz, Rev. Joseph Maria
+yes,female,21.0,2nd,Phillips, Miss. Alice Frances L
+yes,female,19.0,2nd,Phillips, Miss. Kate Florence (
+no,male,43.0,2nd,Phillips, Mr. Escott Robert
+yes,female,32.0,2nd,Pinsky, Mrs. (Rosa)
+no,male,34.0,2nd,Ponesell, Mr. Martin
+yes,male,30.0,2nd,Portaluppi, Mr. Emilio Ilario G
+no,male,27.0,2nd,Pulbaum, Mr. Franz
+yes,female,2.0,2nd,Quick, Miss. Phyllis May
+yes,female,8.0,2nd,Quick, Miss. Winifred Vera
+yes,female,33.0,2nd,Quick, Mrs. Frederick Charles (
+no,male,36.0,2nd,Reeves, Mr. David
+no,male,34.0,2nd,Renouf, Mr. Peter Henry
+yes,female,30.0,2nd,Renouf, Mrs. Peter Henry (Lilli
+yes,female,28.0,2nd,Reynaldo, Ms. Encarnacion
+no,male,23.0,2nd,Richard, Mr. Emile
+yes,male,0.833,2nd,Richards, Master. George Sibley
+yes,male,3.0,2nd,Richards, Master. William Rowe
+yes,female,24.0,2nd,Richards, Mrs. Sidney (Emily Ho
+yes,female,50.0,2nd,Ridsdale, Miss. Lucy
+no,male,19.0,2nd,Rogers, Mr. Reginald Harry
+yes,female,21.0,2nd,Rugg, Miss. Emily
+no,male,26.0,2nd,Schmidt, Mr. August
+no,male,25.0,2nd,Sedgwick, Mr. Charles Frederick
+no,male,27.0,2nd,Sharp, Mr. Percival James R
+yes,female,25.0,2nd,Shelley, Mrs. William (Imanita
+yes,female,18.0,2nd,Silven, Miss. Lyyli Karoliina
+yes,female,20.0,2nd,Sincock, Miss. Maude
+yes,female,30.0,2nd,Sinkkonen, Miss. Anna
+no,male,59.0,2nd,Sjostedt, Mr. Ernst Adolf
+yes,female,30.0,2nd,Slayter, Miss. Hilda Mary
+no,male,35.0,2nd,Slemen, Mr. Richard James
+yes,female,40.0,2nd,Smith, Miss. Marion Elsie
+no,male,25.0,2nd,Sobey, Mr. Samuel James Hayden
+no,male,41.0,2nd,Stanton, Mr. Samuel Ward
+no,male,25.0,2nd,Stokes, Mr. Philip Joseph
+no,male,18.5,2nd,Swane, Mr. George
+no,male,14.0,2nd,Sweet, Mr. George Frederick
+yes,female,50.0,2nd,Toomey, Miss. Ellen
+no,male,23.0,2nd,Troupiansky, Mr. Moses Aaron
+yes,female,28.0,2nd,Trout, Mrs. William H (Jessie L
+yes,female,27.0,2nd,Troutt, Miss. Edwina Celia Win
+no,male,29.0,2nd,Turpin, Mr. William John Robert
+no,female,27.0,2nd,Turpin, Mrs. William John Rober
+no,male,40.0,2nd,Veal, Mr. James
+yes,female,31.0,2nd,Walcroft, Miss. Nellie
+no,male,30.0,2nd,Ware, Mr. John James
+no,male,23.0,2nd,Ware, Mr. William Jeffery
+yes,female,31.0,2nd,Ware, Mrs. John James (Florence
+no,male,,2nd,Watson, Mr. Ennis Hastings
+yes,female,12.0,2nd,Watt, Miss. Bertha J
+yes,female,40.0,2nd,Watt, Mrs. James (Elizabeth Be
+yes,female,32.5,2nd,Webber, Miss. Susan
+no,male,27.0,2nd,Weisz, Mr. Leopold
+yes,female,29.0,2nd,Weisz, Mrs. Leopold (Mathilde F
+yes,male,2.0,2nd,Wells, Master. Ralph Lester
+yes,female,4.0,2nd,Wells, Miss. Joan
+yes,female,29.0,2nd,Wells, Mrs. Arthur Henry (Addi
+yes,female,0.917,2nd,West, Miss. Barbara J
+yes,female,5.0,2nd,West, Miss. Constance Mirium
+no,male,36.0,2nd,West, Mr. Edwy Arthur
+yes,female,33.0,2nd,West, Mrs. Edwy Arthur (Ada Mar
+no,male,66.0,2nd,Wheadon, Mr. Edward H
+no,male,,2nd,Wheeler, Mr. Edwin Frederick
+yes,male,31.0,2nd,Wilhelms, Mr. Charles
+yes,male,,2nd,Williams, Mr. Charles Eugene
+yes,female,26.0,2nd,Wright, Miss. Marion
+no,female,24.0,2nd,Yrois, Miss. Henriette (Mrs Ha
+no,male,42.0,3rd,Abbing, Mr. Anthony
+no,male,13.0,3rd,Abbott, Master. Eugene Joseph
+no,male,16.0,3rd,Abbott, Mr. Rossmore Edward
+yes,female,35.0,3rd,Abbott, Mrs. Stanton (Rosa Hunt
+yes,female,16.0,3rd,Abelseth, Miss. Karen Marie
+yes,male,25.0,3rd,Abelseth, Mr. Olaus Jorgensen
+yes,male,20.0,3rd,Abrahamsson, Mr. Abraham August
+yes,female,18.0,3rd,Abrahim, Mrs. Joseph (Sophie Ha
+no,male,30.0,3rd,Adahl, Mr. Mauritz Nils Martin
+no,male,26.0,3rd,Adams, Mr. John
+no,female,40.0,3rd,Ahlin, Mrs. Johan (Johanna Pers
+yes,male,0.833,3rd,Aks, Master. Philip Frank
+yes,female,18.0,3rd,Aks, Mrs. Sam (Leah Rosen)
+yes,male,26.0,3rd,Albimona, Mr. Nassef Cassem
+no,male,26.0,3rd,Alexander, Mr. William
+no,male,20.0,3rd,Alhomaki, Mr. Ilmari Rudolf
+no,male,24.0,3rd,Ali, Mr. Ahmed
+no,male,25.0,3rd,Ali, Mr. William
+no,male,35.0,3rd,Allen, Mr. William Henry
+no,male,18.0,3rd,Allum, Mr. Owen George
+no,male,32.0,3rd,Andersen, Mr. Albert Karvin
+yes,female,19.0,3rd,Andersen-Jensen, Miss. Carla Ch
+no,male,4.0,3rd,Andersson, Master. Sigvard Hara
+no,female,6.0,3rd,Andersson, Miss. Ebba Iris Alfr
+no,female,2.0,3rd,Andersson, Miss. Ellis Anna Mar
+yes,female,17.0,3rd,Andersson, Miss. Erna Alexandra
+no,female,38.0,3rd,Andersson, Miss. Ida Augusta Ma
+no,female,9.0,3rd,Andersson, Miss. Ingeborg Const
+no,female,11.0,3rd,Andersson, Miss. Sigrid Elisabe
+no,male,39.0,3rd,Andersson, Mr. Anders Johan
+yes,male,27.0,3rd,Andersson, Mr. August Edvard (
+no,male,26.0,3rd,Andersson, Mr. Johan Samuel
+no,female,39.0,3rd,Andersson, Mrs. Anders Johan (A
+no,male,20.0,3rd,Andreasson, Mr. Paul Edvin
+no,male,26.0,3rd,Angheloff, Mr. Minko
+no,male,25.0,3rd,Arnold-Franchi, Mr. Josef
+no,female,18.0,3rd,Arnold-Franchi, Mrs. Josef (Jos
+no,male,24.0,3rd,Aronsson, Mr. Ernst Axel Algot
+no,male,35.0,3rd,Asim, Mr. Adola
+no,male,5.0,3rd,Asplund, Master. Carl Edgar
+no,male,9.0,3rd,Asplund, Master. Clarence Gusta
+yes,male,3.0,3rd,Asplund, Master. Edvin Rojj Fel
+no,male,13.0,3rd,Asplund, Master. Filip Oscar
+yes,female,5.0,3rd,Asplund, Miss. Lillian Gertrud
+no,male,40.0,3rd,Asplund, Mr. Carl Oscar Vilhelm
+yes,male,23.0,3rd,Asplund, Mr. Johan Charles
+yes,female,38.0,3rd,Asplund, Mrs. Carl Oscar (Selma
+yes,female,45.0,3rd,Assaf Khalil, Mrs. Mariana (Mi
+no,male,21.0,3rd,Assaf, Mr. Gerios
+no,male,23.0,3rd,Assam, Mr. Ali
+no,female,17.0,3rd,Attalah, Miss. Malake
+no,male,30.0,3rd,Attalah, Mr. Sleiman
+no,male,23.0,3rd,Augustsson, Mr. Albert
+yes,female,13.0,3rd,Ayoub, Miss. Banoura
+no,male,20.0,3rd,Baccos, Mr. Raffull
+no,male,32.0,3rd,Backstrom, Mr. Karl Alfred
+yes,female,33.0,3rd,Backstrom, Mrs. Karl Alfred (Ma
+yes,female,0.75,3rd,Baclini, Miss. Eugenie
+yes,female,0.75,3rd,Baclini, Miss. Helene Barbara
+yes,female,5.0,3rd,Baclini, Miss. Marie Catherine
+yes,female,24.0,3rd,Baclini, Mrs. Solomon (Latifa Q
+yes,female,18.0,3rd,Badman, Miss. Emily Louisa
+no,male,40.0,3rd,Badt, Mr. Mohamed
+no,male,26.0,3rd,Balkic, Mr. Cerin
+yes,male,20.0,3rd,Barah, Mr. Hanna Assi
+no,female,18.0,3rd,Barbara, Miss. Saiide
+no,female,45.0,3rd,Barbara, Mrs. (Catherine David)
+no,female,27.0,3rd,Barry, Miss. Julia
+no,male,22.0,3rd,Barton, Mr. David John
+no,male,19.0,3rd,Beavan, Mr. William Thomas
+no,male,26.0,3rd,Bengtsson, Mr. John Viktor
+no,male,22.0,3rd,Berglund, Mr. Karl Ivar Sven
+no,male,,3rd,Betros, Master. Seman
+no,male,20.0,3rd,Betros, Mr. Tannous
+yes,male,32.0,3rd,Bing, Mr. Lee
+no,male,21.0,3rd,Birkeland, Mr. Hans Martin Mons
+no,male,18.0,3rd,Bjorklund, Mr. Ernst Herbert
+no,male,26.0,3rd,Bostandyeff, Mr. Guentcho
+no,male,6.0,3rd,Boulos, Master. Akar
+no,female,9.0,3rd,Boulos, Miss. Nourelain
+no,male,,3rd,Boulos, Mr. Hanna
+no,female,,3rd,Boulos, Mrs. Joseph (Sultana)
+no,female,,3rd,Bourke, Miss. Mary
+no,male,40.0,3rd,Bourke, Mr. John
+no,female,32.0,3rd,Bourke, Mrs. John (Catherine)
+no,male,21.0,3rd,Bowen, Mr. David John Dai
+yes,female,22.0,3rd,Bradley, Miss. Bridget Delia
+no,female,20.0,3rd,Braf, Miss. Elin Ester Maria
+no,male,29.0,3rd,Braund, Mr. Lewis Richard
+no,male,22.0,3rd,Braund, Mr. Owen Harris
+no,male,22.0,3rd,Brobeck, Mr. Karl Rudolf
+no,male,35.0,3rd,Brocklebank, Mr. William Alfred
+no,female,18.5,3rd,Buckley, Miss. Katherine
+yes,male,21.0,3rd,Buckley, Mr. Daniel
+no,male,19.0,3rd,Burke, Mr. Jeremiah
+no,female,18.0,3rd,Burns, Miss. Mary Delia
+no,female,21.0,3rd,Cacic, Miss. Manda
+no,female,30.0,3rd,Cacic, Miss. Marija
+no,male,18.0,3rd,Cacic, Mr. Jego Grga
+no,male,38.0,3rd,Cacic, Mr. Luka
+no,male,17.0,3rd,Calic, Mr. Jovo
+no,male,17.0,3rd,Calic, Mr. Petar
+no,female,21.0,3rd,Canavan, Miss. Mary
+no,male,21.0,3rd,Canavan, Mr. Patrick
+no,male,21.0,3rd,Cann, Mr. Ernest Charles
+no,male,,3rd,Caram, Mr. Joseph
+no,female,,3rd,Caram, Mrs. Joseph (Maria Elias
+no,male,28.0,3rd,Carlsson, Mr. August Sigfrid
+no,male,24.0,3rd,Carlsson, Mr. Carl Robert
+yes,female,16.0,3rd,Carr, Miss. Helen Ellen
+no,female,37.0,3rd,Carr, Miss. Jeannie
+no,male,28.0,3rd,Carver, Mr. Alfred John
+no,male,24.0,3rd,Celotti, Mr. Francesco
+no,male,21.0,3rd,Charters, Mr. David
+yes,male,32.0,3rd,Chip, Mr. Chang
+no,male,29.0,3rd,Christmann, Mr. Emil
+no,male,26.0,3rd,Chronopoulos, Mr. Apostolos
+no,male,18.0,3rd,Chronopoulos, Mr. Demetrios
+no,male,20.0,3rd,Coelho, Mr. Domingos Fernandeo
+yes,male,18.0,3rd,Cohen, Mr. Gurshon Gus
+no,male,24.0,3rd,Colbert, Mr. Patrick
+no,male,36.0,3rd,Coleff, Mr. Peju
+no,male,24.0,3rd,Coleff, Mr. Satio
+no,male,31.0,3rd,Conlon, Mr. Thomas Henry
+no,male,31.0,3rd,Connaghton, Mr. Michael
+yes,female,22.0,3rd,Connolly, Miss. Kate (A)
+no,female,30.0,3rd,Connolly, Miss. Kate (B)
+no,male,70.5,3rd,Connors, Mr. Patrick
+no,male,43.0,3rd,Cook, Mr. Jacob
+no,male,35.0,3rd,Cor, Mr. Bartol
+no,male,27.0,3rd,Cor, Mr. Ivan
+no,male,19.0,3rd,Cor, Mr. Liudevit
+no,male,30.0,3rd,Corn, Mr. Harry
+yes,male,9.0,3rd,Coutts, Master. Eden Leslie Ne
+yes,male,3.0,3rd,Coutts, Master. William Loch W
+yes,female,36.0,3rd,Coutts, Mrs. William (Winnie M
+no,male,59.0,3rd,Coxon, Mr. Daniel
+no,male,19.0,3rd,Crease, Mr. Ernest James
+yes,female,17.0,3rd,Cribb, Miss. Laura Alice
+no,male,44.0,3rd,Cribb, Mr. John Hatfield
+no,male,17.0,3rd,Culumovic, Mr. Jeso
+no,male,22.5,3rd,Daher, Mr. Shedid
+yes,male,45.0,3rd,Dahl, Mr. Karl Edwart
+no,female,22.0,3rd,Dahlberg, Miss. Gerda Ulrika
+no,male,19.0,3rd,Dakic, Mr. Branko
+yes,female,30.0,3rd,Daly, Miss. Margaret Marcella 
+yes,male,29.0,3rd,Daly, Mr. Eugene Patrick
+no,male,0.333,3rd,Danbom, Master. Gilbert Sigvard
+no,male,34.0,3rd,Danbom, Mr. Ernst Gilbert
+no,female,28.0,3rd,Danbom, Mrs. Ernst Gilbert (Ann
+no,male,27.0,3rd,Danoff, Mr. Yoto
+no,male,25.0,3rd,Dantcheff, Mr. Ristiu
+no,male,24.0,3rd,Davies, Mr. Alfred J
+no,male,22.0,3rd,Davies, Mr. Evan
+no,male,21.0,3rd,Davies, Mr. John Samuel
+no,male,17.0,3rd,Davies, Mr. Joseph
+no,male,,3rd,Davison, Mr. Thomas Henry
+yes,female,,3rd,Davison, Mrs. Thomas Henry (Mar
+yes,male,36.5,3rd,de Messemaeker, Mr. Guillaume J
+yes,female,36.0,3rd,de Messemaeker, Mrs. Guillaume
+yes,male,30.0,3rd,de Mulder, Mr. Theodore
+no,male,16.0,3rd,de Pelsmaeker, Mr. Alfons
+yes,male,1.0,3rd,Dean, Master. Bertram Vere
+yes,female,0.167,3rd,Dean, Miss. Elizabeth Gladys M
+no,male,26.0,3rd,Dean, Mr. Bertram Frank
+yes,female,33.0,3rd,Dean, Mrs. Bertram (Eva Georget
+no,male,25.0,3rd,Delalic, Mr. Redjo
+no,male,,3rd,Demetri, Mr. Marinko
+no,male,,3rd,Denkoff, Mr. Mitto
+no,male,22.0,3rd,Dennis, Mr. Samuel
+no,male,36.0,3rd,Dennis, Mr. William
+yes,female,19.0,3rd,Devaney, Miss. Margaret Delia
+no,male,17.0,3rd,Dika, Mr. Mirko
+no,male,42.0,3rd,Dimic, Mr. Jovan
+no,male,43.0,3rd,Dintcheff, Mr. Valtcho
+no,male,,3rd,Doharr, Mr. Tannous
+no,male,32.0,3rd,Dooley, Mr. Patrick
+yes,male,19.0,3rd,Dorking, Mr. Edward Arthur
+yes,female,30.0,3rd,Dowdell, Miss. Elizabeth
+no,female,24.0,3rd,Doyle, Miss. Elizabeth
+yes,female,23.0,3rd,Drapkin, Miss. Jennie
+no,male,33.0,3rd,Drazenoic, Mr. Jozef
+no,male,65.0,3rd,Duane, Mr. Frank
+yes,male,24.0,3rd,Duquemin, Mr. Joseph
+no,male,23.0,3rd,Dyker, Mr. Adolf Fredrik
+yes,female,22.0,3rd,Dyker, Mrs. Adolf Fredrik (Anna
+no,male,18.0,3rd,Edvardsson, Mr. Gustaf Hjalmar
+no,male,16.0,3rd,Eklund, Mr. Hans Linus
+no,male,45.0,3rd,Ekstrom, Mr. Johan
+no,male,,3rd,Elias, Mr. Dibo
+no,male,39.0,3rd,Elias, Mr. Joseph
+no,male,17.0,3rd,Elias, Mr. Joseph Jr
+no,male,15.0,3rd,Elias, Mr. Tannous
+no,male,47.0,3rd,Elsbury, Mr. William James
+yes,female,5.0,3rd,Emanuel, Miss. Virginia Ethel
+no,male,,3rd,Emir, Mr. Farred Chehab
+no,male,40.5,3rd,Everett, Mr. Thomas James
+no,male,40.5,3rd,Farrell, Mr. James
+yes,male,,3rd,Finoli, Mr. Luigi
+no,male,18.0,3rd,Fischer, Mr. Eberhard Thelander
+no,female,,3rd,Fleming, Miss. Honora
+no,male,,3rd,Flynn, Mr. James
+no,male,,3rd,Flynn, Mr. John
+no,male,26.0,3rd,Foley, Mr. Joseph
+no,male,,3rd,Foley, Mr. William
+yes,male,,3rd,Foo, Mr. Choong
+no,female,21.0,3rd,Ford, Miss. Doolina Margaret D
+no,female,9.0,3rd,Ford, Miss. Robina Maggie Ruby
+no,male,,3rd,Ford, Mr. Arthur
+no,male,18.0,3rd,Ford, Mr. Edward Watson
+no,male,16.0,3rd,Ford, Mr. William Neal
+no,female,48.0,3rd,Ford, Mrs. Edward (Margaret Ann
+no,male,,3rd,Fox, Mr. Patrick
+no,male,,3rd,Franklin, Mr. Charles (Charles
+no,male,25.0,3rd,Gallagher, Mr. Martin
+no,male,,3rd,Garfirth, Mr. John
+no,male,,3rd,Gheorgheff, Mr. Stanio
+no,male,22.0,3rd,Gilinski, Mr. Eliezer
+yes,female,16.0,3rd,Gilnagh, Miss. Katherine Katie
+yes,female,,3rd,Glynn, Miss. Mary Agatha
+yes,male,9.0,3rd,Goldsmith, Master. Frank John W
+no,male,33.0,3rd,Goldsmith, Mr. Frank John
+no,male,41.0,3rd,Goldsmith, Mr. Nathan
+yes,female,31.0,3rd,Goldsmith, Mrs. Frank John (Emi
+no,male,38.0,3rd,Goncalves, Mr. Manuel Estanslas
+no,male,9.0,3rd,Goodwin, Master. Harold Victor
+no,male,1.0,3rd,Goodwin, Master. Sidney Leonard
+no,male,11.0,3rd,Goodwin, Master. William Freder
+no,female,10.0,3rd,Goodwin, Miss. Jessie Allis
+no,female,16.0,3rd,Goodwin, Miss. Lillian Amy
+no,male,14.0,3rd,Goodwin, Mr. Charles Edward
+no,male,40.0,3rd,Goodwin, Mr. Charles Frederick
+no,female,43.0,3rd,Goodwin, Mrs. Frederick (August
+no,male,51.0,3rd,Green, Mr. George Henry
+no,male,32.0,3rd,Gronnestad, Mr. Daniel Danielse
+no,male,,3rd,Guest, Mr. Robert
+no,male,20.0,3rd,Gustafsson, Mr. Alfred Ossian
+no,male,37.0,3rd,Gustafsson, Mr. Anders Vilhelm
+no,male,28.0,3rd,Gustafsson, Mr. Johan Birger
+no,male,19.0,3rd,Gustafsson, Mr. Karl Gideon
+no,female,24.0,3rd,Haas, Miss. Aloisia
+no,female,17.0,3rd,Hagardon, Miss. Kate
+no,male,,3rd,Hagland, Mr. Ingvald Olai Olsen
+no,male,,3rd,Hagland, Mr. Konrad Mathias Rei
+no,male,28.0,3rd,Hakkarainen, Mr. Pekka Pietari
+yes,female,24.0,3rd,Hakkarainen, Mrs. Pekka Pietari
+no,male,20.0,3rd,Hampe, Mr. Leon
+no,male,23.5,3rd,Hanna, Mr. Mansour
+no,male,41.0,3rd,Hansen, Mr. Claus Peter
+no,male,26.0,3rd,Hansen, Mr. Henrik Juul
+no,male,21.0,3rd,Hansen, Mr. Henry Damsgaard
+yes,female,45.0,3rd,Hansen, Mrs. Claus Peter (Jenni
+no,female,,3rd,Harknett, Miss. Alice Phoebe
+no,male,25.0,3rd,Harmer, Mr. Abraham (David Lish
+no,male,,3rd,Hart, Mr. Henry
+no,male,11.0,3rd,Hassan, Mr. Houssein G N
+yes,female,,3rd,Healy, Miss. Hanora Nora
+yes,male,27.0,3rd,Hedman, Mr. Oskar Arvid
+yes,male,,3rd,Hee, Mr. Ling
+no,female,18.0,3rd,Hegarty, Miss. Hanora Nora
+yes,female,26.0,3rd,Heikkinen, Miss. Laina
+no,female,23.0,3rd,Heininen, Miss. Wendla Maria
+yes,female,22.0,3rd,Hellstrom, Miss. Hilda Maria
+no,male,28.0,3rd,Hendekovic, Mr. Ignjac
+no,female,28.0,3rd,Henriksson, Miss. Jenny Lovisa
+no,female,,3rd,Henry, Miss. Delia
+yes,female,2.0,3rd,Hirvonen, Miss. Hildur E
+yes,female,22.0,3rd,Hirvonen, Mrs. Alexander (Helga
+no,male,43.0,3rd,Holm, Mr. John Fredrik Alexande
+no,male,28.0,3rd,Holthen, Mr. Johan Martin
+yes,female,27.0,3rd,Honkanen, Miss. Eliina
+no,male,,3rd,Horgan, Mr. John
+yes,female,,3rd,Howard, Miss. May Elizabeth
+no,male,42.0,3rd,Humblen, Mr. Adolf Mathias Nico
+yes,male,,3rd,Hyman, Mr. Abraham
+no,male,30.0,3rd,Ibrahim Shawah, Mr. Yousseff
+no,male,,3rd,Ilieff, Mr. Ylio
+no,female,27.0,3rd,Ilmakangas, Miss. Ida Livija
+no,female,25.0,3rd,Ilmakangas, Miss. Pieta Sofia
+no,male,,3rd,Ivanoff, Mr. Kanio
+yes,male,29.0,3rd,Jalsevac, Mr. Ivan
+yes,male,21.0,3rd,Jansson, Mr. Carl Olof
+no,male,,3rd,Jardin, Mr. Jose Neto
+no,male,20.0,3rd,Jensen, Mr. Hans Peder
+no,male,48.0,3rd,Jensen, Mr. Niels Peder
+no,male,17.0,3rd,Jensen, Mr. Svend Lauritz
+yes,female,,3rd,Jermyn, Miss. Annie
+yes,male,,3rd,Johannesen-Bratthammer, Mr. Ber
+no,male,34.0,3rd,Johanson, Mr. Jakob Alfred
+yes,male,26.0,3rd,Johansson Palmquist, Mr. Oskar
+no,male,22.0,3rd,Johansson, Mr. Erik
+no,male,33.0,3rd,Johansson, Mr. Gustaf Joel
+no,male,31.0,3rd,Johansson, Mr. Karl Johan
+no,male,29.0,3rd,Johansson, Mr. Nils
+yes,male,4.0,3rd,Johnson, Master. Harold Theodor
+yes,female,1.0,3rd,Johnson, Miss. Eleanor Ileen
+no,male,49.0,3rd,Johnson, Mr. Alfred
+no,male,33.0,3rd,Johnson, Mr. Malkolm Joackim
+no,male,19.0,3rd,Johnson, Mr. William Cahoone Jr
+yes,female,27.0,3rd,Johnson, Mrs. Oscar W (Elisabet
+no,male,,3rd,Johnston, Master. William Arthu
+no,female,,3rd,Johnston, Miss. Catherine Helen
+no,male,,3rd,Johnston, Mr. Andrew G
+no,female,,3rd,Johnston, Mrs. Andrew G (Elizab
+no,male,23.0,3rd,Jonkoff, Mr. Lalio
+yes,male,32.0,3rd,Jonsson, Mr. Carl
+no,male,27.0,3rd,Jonsson, Mr. Nils Hilding
+no,female,20.0,3rd,Jussila, Miss. Katriina
+no,female,21.0,3rd,Jussila, Miss. Mari Aina
+yes,male,32.0,3rd,Jussila, Mr. Eiriik
+no,male,17.0,3rd,Kallio, Mr. Nikolai Erland
+no,male,21.0,3rd,Kalvik, Mr. Johannes Halvorsen
+no,male,30.0,3rd,Karaic, Mr. Milan
+yes,male,21.0,3rd,Karlsson, Mr. Einar Gervasius
+no,male,33.0,3rd,Karlsson, Mr. Julius Konrad Eug
+no,male,22.0,3rd,Karlsson, Mr. Nils August
+yes,female,4.0,3rd,Karun, Miss. Manca
+yes,male,39.0,3rd,Karun, Mr. Franz
+no,male,,3rd,Kassem, Mr. Fared
+no,male,18.5,3rd,Katavelas, Mr. Vassilios (Cata
+no,male,,3rd,Keane, Mr. Andrew Andy
+no,male,,3rd,Keefe, Mr. Arthur
+yes,female,,3rd,Kelly, Miss. Anna Katherine An
+yes,female,,3rd,Kelly, Miss. Mary
+no,male,34.5,3rd,Kelly, Mr. James (A)
+no,male,44.0,3rd,Kelly, Mr. James (B)
+yes,male,,3rd,Kennedy, Mr. John
+no,male,,3rd,Khalil, Mr. Betros
+no,female,,3rd,Khalil, Mrs. Betros (Zahie Mar
+no,male,,3rd,Kiernan, Mr. John
+no,male,,3rd,Kiernan, Mr. Philip
+no,male,,3rd,Kilgannon, Mr. Thomas J
+no,female,22.0,3rd,Kink, Miss. Maria
+no,male,26.0,3rd,Kink, Mr. Vincenz
+yes,female,4.0,3rd,Kink-Heilmann, Miss. Luise Gret
+yes,male,29.0,3rd,Kink-Heilmann, Mr. Anton
+yes,female,26.0,3rd,Kink-Heilmann, Mrs. Anton (Luis
+no,female,1.0,3rd,Klasen, Miss. Gertrud Emilia
+no,male,18.0,3rd,Klasen, Mr. Klas Albin
+no,female,36.0,3rd,Klasen, Mrs. (Hulda Kristina Eu
+no,male,,3rd,Kraeff, Mr. Theodor
+yes,male,25.0,3rd,Krekorian, Mr. Neshan
+no,male,,3rd,Lahoud, Mr. Sarkis
+no,female,37.0,3rd,Laitinen, Miss. Kristina Sofia
+no,male,,3rd,Laleff, Mr. Kristo
+yes,male,,3rd,Lam, Mr. Ali
+no,male,,3rd,Lam, Mr. Len
+yes,female,22.0,3rd,Landergren, Miss. Aurora Adelia
+no,male,,3rd,Lane, Mr. Patrick
+yes,male,26.0,3rd,Lang, Mr. Fang
+no,male,29.0,3rd,Larsson, Mr. August Viktor
+no,male,29.0,3rd,Larsson, Mr. Bengt Edvin
+no,male,22.0,3rd,Larsson-Rondberg, Mr. Edvard A
+yes,male,22.0,3rd,Leeni, Mr. Fahim (Philip Zenni
+no,male,,3rd,Lefebre, Master. Henry Forbes
+no,female,,3rd,Lefebre, Miss. Ida
+no,female,,3rd,Lefebre, Miss. Jeannie
+no,female,,3rd,Lefebre, Miss. Mathilde
+no,female,,3rd,Lefebre, Mrs. Frank (Frances)
+no,male,32.0,3rd,Leinonen, Mr. Antti Gustaf
+no,male,34.5,3rd,Lemberopolous, Mr. Peter L
+no,female,,3rd,Lennon, Miss. Mary
+no,male,,3rd,Lennon, Mr. Denis
+no,male,36.0,3rd,Leonard, Mr. Lionel
+no,male,39.0,3rd,Lester, Mr. James
+no,male,24.0,3rd,Lievens, Mr. Rene Aime
+no,female,25.0,3rd,Lindahl, Miss. Agda Thorilda Vi
+no,female,45.0,3rd,Lindblom, Miss. Augusta Charlot
+no,male,36.0,3rd,Lindell, Mr. Edvard Bengtsson
+no,female,30.0,3rd,Lindell, Mrs. Edvard Bengtsson
+yes,male,20.0,3rd,Lindqvist, Mr. Eino William
+no,male,,3rd,Linehan, Mr. Michael
+no,male,28.0,3rd,Ling, Mr. Lee
+no,male,,3rd,Lithman, Mr. Simon
+no,male,30.0,3rd,Lobb, Mr. William Arthur
+no,female,26.0,3rd,Lobb, Mrs. William Arthur (Cord
+no,male,,3rd,Lockyer, Mr. Edward
+no,male,20.5,3rd,Lovell, Mr. John Hall (Henry)
+yes,male,27.0,3rd,Lulic, Mr. Nikola
+no,male,51.0,3rd,Lundahl, Mr. Johan Svensson
+yes,female,23.0,3rd,Lundin, Miss. Olga Elida
+yes,male,32.0,3rd,Lundstrom, Mr. Thure Edvin
+no,male,,3rd,Lyntakoff, Mr. Stanko
+no,male,,3rd,MacKay, Mr. George William
+yes,female,,3rd,Madigan, Miss. Margaret Maggie
+yes,male,24.0,3rd,Madsen, Mr. Fridtjof Arne
+no,male,22.0,3rd,Maenpaa, Mr. Matti Alexanteri
+no,female,,3rd,Mahon, Miss. Bridget Delia
+no,male,,3rd,Mahon, Mr. John
+no,male,,3rd,Maisner, Mr. Simon
+no,male,29.0,3rd,Makinen, Mr. Kalle Edvard
+yes,male,,3rd,Mamee, Mr. Hanna
+no,female,30.5,3rd,Mangan, Miss. Mary
+yes,female,,3rd,Mannion, Miss. Margareth
+no,male,,3rd,Mardirosian, Mr. Sarkis
+no,male,35.0,3rd,Markoff, Mr. Marin
+no,male,33.0,3rd,Markun, Mr. Johann
+yes,female,,3rd,Masselmani, Mrs. Fatima
+no,male,,3rd,Matinoff, Mr. Nicola
+yes,female,,3rd,McCarthy, Miss. Catherine Kati
+yes,male,,3rd,McCormack, Mr. Thomas Joseph
+yes,female,,3rd,McCoy, Miss. Agnes
+yes,female,,3rd,McCoy, Miss. Alicia
+yes,male,,3rd,McCoy, Mr. Bernard
+yes,female,,3rd,McDermott, Miss. Brigdet Delia
+no,male,,3rd,McEvoy, Mr. Michael
+yes,female,,3rd,McGovern, Miss. Mary
+yes,female,15.0,3rd,McGowan, Miss. Anna Annie
+no,female,35.0,3rd,McGowan, Miss. Katherine
+no,male,,3rd,McMahon, Mr. Martin
+no,male,24.0,3rd,McNamee, Mr. Neal
+no,female,19.0,3rd,McNamee, Mrs. Neal (Eileen O'Le
+no,female,,3rd,McNeill, Miss. Bridget
+no,female,,3rd,Meanwell, Miss. (Marion Ogden)
+no,female,,3rd,Meek, Mrs. Thomas (Annie Louise
+no,male,55.5,3rd,Meo, Mr. Alfonzo
+no,male,,3rd,Mernagh, Mr. Robert
+yes,male,21.0,3rd,Midtsjo, Mr. Karl Albert
+no,male,,3rd,Miles, Mr. Frank
+no,male,24.0,3rd,Mineff, Mr. Ivan
+no,male,21.0,3rd,Minkoff, Mr. Lazar
+no,male,28.0,3rd,Mionoff, Mr. Stoytcho
+no,male,,3rd,Mitkoff, Mr. Mito
+yes,female,,3rd,Mockler, Miss. Helen Mary Elli
+no,male,25.0,3rd,Moen, Mr. Sigurd Hansen
+yes,male,6.0,3rd,Moor, Master. Meier
+yes,female,27.0,3rd,Moor, Mrs. (Beila)
+no,male,,3rd,Moore, Mr. Leonard Charles
+yes,female,,3rd,Moran, Miss. Bertha
+no,male,,3rd,Moran, Mr. Daniel J
+no,male,,3rd,Moran, Mr. James
+no,male,34.0,3rd,Morley, Mr. William
+no,male,,3rd,Morrow, Mr. Thomas Rowan
+yes,male,,3rd,Moss, Mr. Albert Johan
+yes,male,,3rd,Moubarek, Master. Gerios
+yes,male,,3rd,Moubarek, Master. Halim Gonios
+yes,female,,3rd,Moubarek, Mrs. George (Omine A
+yes,female,,3rd,Moussa, Mrs. (Mantoura Boulos)
+no,male,,3rd,Moutal, Mr. Rahamin Haim
+yes,female,,3rd,Mullens, Miss. Katherine Katie
+yes,female,24.0,3rd,Mulvihill, Miss. Bertha E
+no,male,,3rd,Murdlin, Mr. Joseph
+yes,female,,3rd,Murphy, Miss. Katherine Kate
+yes,female,,3rd,Murphy, Miss. Margaret Jane
+yes,female,,3rd,Murphy, Miss. Nora
+no,male,18.0,3rd,Myhrman, Mr. Pehr Fabian Oliver
+no,male,22.0,3rd,Naidenoff, Mr. Penko
+yes,female,15.0,3rd,Najib, Miss. Adele Kiamie Jane
+yes,female,1.0,3rd,Nakid, Miss. Maria (Mary)
+yes,male,20.0,3rd,Nakid, Mr. Sahid
+yes,female,19.0,3rd,Nakid, Mrs. Said (Waika Mary
+no,male,33.0,3rd,Nancarrow, Mr. William Henry
+no,male,,3rd,Nankoff, Mr. Minko
+no,male,,3rd,Nasr, Mr. Mustafa
+no,female,,3rd,Naughton, Miss. Hannah
+no,male,,3rd,Nenkoff, Mr. Christo
+yes,male,12.0,3rd,Nicola-Yarred, Master. Elias
+yes,female,14.0,3rd,Nicola-Yarred, Miss. Jamila
+no,female,29.0,3rd,Nieminen, Miss. Manta Josefina
+no,male,28.0,3rd,Niklasson, Mr. Samuel
+yes,female,18.0,3rd,Nilsson, Miss. Berta Olivia
+yes,female,26.0,3rd,Nilsson, Miss. Helmina Josefina
+no,male,21.0,3rd,Nilsson, Mr. August Ferdinand
+no,male,41.0,3rd,Nirva, Mr. Iisakki Antino Aijo
+yes,male,39.0,3rd,Niskanen, Mr. Juha
+no,male,21.0,3rd,Nosworthy, Mr. Richard Cater
+no,male,28.5,3rd,Novel, Mr. Mansouer
+yes,female,22.0,3rd,Nysten, Miss. Anna Sofia
+no,male,61.0,3rd,Nysveen, Mr. Johan Hansen
+no,male,,3rd,O'Brien, Mr. Thomas
+no,male,,3rd,O'Brien, Mr. Timothy
+yes,female,,3rd,O'Brien, Mrs. Thomas (Johanna 
+no,male,,3rd,O'Connell, Mr. Patrick D
+no,male,,3rd,O'Connor, Mr. Maurice
+no,male,,3rd,O'Connor, Mr. Patrick
+no,male,23.0,3rd,Odahl, Mr. Nils Martin
+no,female,,3rd,O'Donoghue, Ms. Bridget
+yes,female,,3rd,O'Driscoll, Miss. Bridget
+yes,female,,3rd,O'Dwyer, Miss. Ellen Nellie
+yes,female,22.0,3rd,Ohman, Miss. Velin
+yes,male,,3rd,O'Keefe, Mr. Patrick
+yes,female,,3rd,O'Leary, Miss. Hanora Norah
+yes,male,9.0,3rd,Olsen, Master. Artur Karl
+no,male,28.0,3rd,Olsen, Mr. Henry Margido
+no,male,42.0,3rd,Olsen, Mr. Karl Siegwart Andrea
+no,male,,3rd,Olsen, Mr. Ole Martin
+no,female,31.0,3rd,Olsson, Miss. Elina
+no,male,28.0,3rd,Olsson, Mr. Nils Johan Goransso
+yes,male,32.0,3rd,Olsson, Mr. Oscar Wilhelm
+no,male,20.0,3rd,Olsvigen, Mr. Thor Anderson
+no,female,23.0,3rd,Oreskovic, Miss. Jelka
+no,female,20.0,3rd,Oreskovic, Miss. Marija
+no,male,20.0,3rd,Oreskovic, Mr. Luka
+no,male,16.0,3rd,Osen, Mr. Olaf Elon
+yes,female,31.0,3rd,Osman, Mrs. Mara
+no,female,,3rd,O'Sullivan, Miss. Bridget Mary
+no,male,2.0,3rd,Palsson, Master. Gosta Leonard
+no,male,6.0,3rd,Palsson, Master. Paul Folke
+no,female,3.0,3rd,Palsson, Miss. Stina Viola
+no,female,8.0,3rd,Palsson, Miss. Torborg Danira
+no,female,29.0,3rd,Palsson, Mrs. Nils (Alma Cornel
+no,male,1.0,3rd,Panula, Master. Eino Viljami
+no,male,7.0,3rd,Panula, Master. Juha Niilo
+no,male,2.0,3rd,Panula, Master. Urho Abraham
+no,male,16.0,3rd,Panula, Mr. Ernesti Arvid
+no,male,14.0,3rd,Panula, Mr. Jaako Arnold
+no,female,41.0,3rd,Panula, Mrs. Juha (Maria Emilia
+no,male,21.0,3rd,Pasic, Mr. Jakob
+no,male,19.0,3rd,Patchett, Mr. George
+no,male,,3rd,Paulner, Mr. Uscher
+no,male,32.0,3rd,Pavlovic, Mr. Stefo
+no,male,0.75,3rd,Peacock, Master. Alfred Edward
+no,female,3.0,3rd,Peacock, Miss. Treasteall
+no,female,26.0,3rd,Peacock, Mrs. Benjamin (Edith N
+no,male,,3rd,Pearce, Mr. Ernest
+no,male,,3rd,Pedersen, Mr. Olaf
+no,male,,3rd,Peduzzi, Mr. Joseph
+no,male,21.0,3rd,Pekoniemi, Mr. Edvard
+no,male,25.0,3rd,Peltomaki, Mr. Nikolai Johannes
+no,male,22.0,3rd,Perkin, Mr. John Henry
+yes,male,25.0,3rd,Persson, Mr. Ernst Ulrik
+yes,male,,3rd,Peter, Master. Michael J
+yes,female,,3rd,Peter, Miss. Anna
+yes,female,,3rd,Peter, Mrs. Catherine (Catherin
+no,female,,3rd,Peters, Miss. Katie
+no,male,24.0,3rd,Petersen, Mr. Marius
+no,female,28.0,3rd,Petranec, Miss. Matilda
+no,male,19.0,3rd,Petroff, Mr. Nedelio
+no,male,,3rd,Petroff, Mr. Pastcho (Pentcho
+no,male,25.0,3rd,Petterson, Mr. Johan Emil
+no,female,18.0,3rd,Pettersson, Miss. Ellen Natalia
+yes,male,32.0,3rd,Pickard, Mr. Berk (Berk Trembis
+no,male,,3rd,Plotcharsky, Mr. Vasil
+no,male,17.0,3rd,Pokrnic, Mr. Mate
+no,male,24.0,3rd,Pokrnic, Mr. Tome
+no,male,,3rd,Radeff, Mr. Alexander
+no,female,,3rd,Rasmussen, Mrs. (Lena Jacobsen
+no,male,,3rd,Razi, Mr. Raihed
+no,male,,3rd,Reed, Mr. James George
+no,male,38.0,3rd,Rekic, Mr. Tido
+no,male,21.0,3rd,Reynolds, Mr. Harold J
+no,male,10.0,3rd,Rice, Master. Albert
+no,male,4.0,3rd,Rice, Master. Arthur
+no,male,7.0,3rd,Rice, Master. Eric
+no,male,2.0,3rd,Rice, Master. Eugene
+no,male,8.0,3rd,Rice, Master. George Hugh
+no,female,39.0,3rd,Rice, Mrs. William (Margaret No
+no,female,22.0,3rd,Riihivouri, Miss. Susanna Juhan
+no,male,35.0,3rd,Rintamaki, Mr. Matti
+yes,female,,3rd,Riordan, Miss. Johanna Hannah
+no,male,,3rd,Risien, Mr. Samuel Beard
+no,female,,3rd,Risien, Mrs. Samuel (Emma)
+no,male,50.0,3rd,Robins, Mr. Alexander A
+no,female,47.0,3rd,Robins, Mrs. Alexander A (Grace
+no,male,,3rd,Rogers, Mr. William John
+no,male,,3rd,Rommetvedt, Mr. Knud Paust
+no,female,2.0,3rd,Rosblom, Miss. Salli Helena
+no,male,18.0,3rd,Rosblom, Mr. Viktor Richard
+no,female,41.0,3rd,Rosblom, Mrs. Viktor (Helena Wi
+yes,female,,3rd,Roth, Miss. Sarah A
+no,male,50.0,3rd,Rouse, Mr. Richard Henry
+no,male,16.0,3rd,Rush, Mr. Alfred George John
+yes,male,,3rd,Ryan, Mr. Edward
+no,male,,3rd,Ryan, Mr. Patrick
+no,male,,3rd,Saad, Mr. Amin
+no,male,25.0,3rd,Saad, Mr. Khalil
+no,male,,3rd,Saade, Mr. Jean Nassr
+no,male,,3rd,Sadlier, Mr. Matthew
+no,male,,3rd,Sadowitz, Mr. Harry
+no,male,38.5,3rd,Saether, Mr. Simon Sivertsen
+no,male,,3rd,Sage, Master. Thomas Henry
+no,male,14.5,3rd,Sage, Master. William Henry
+no,female,,3rd,Sage, Miss. Ada
+no,female,,3rd,Sage, Miss. Constance Gladys
+no,female,,3rd,Sage, Miss. Dorothy Edith Doll
+no,female,,3rd,Sage, Miss. Stella Anna
+no,male,,3rd,Sage, Mr. Douglas Bullen
+no,male,,3rd,Sage, Mr. Frederick
+no,male,,3rd,Sage, Mr. George John Jr
+no,male,,3rd,Sage, Mr. John George
+no,female,,3rd,Sage, Mrs. John (Annie Bullen)
+no,male,24.0,3rd,Salander, Mr. Karl Johan
+yes,female,21.0,3rd,Salkjelsvik, Miss. Anna Kristin
+no,male,39.0,3rd,Salonen, Mr. Johan Werner
+no,male,,3rd,Samaan, Mr. Elias
+no,male,,3rd,Samaan, Mr. Hanna
+no,male,,3rd,Samaan, Mr. Youssef
+yes,female,1.0,3rd,Sandstrom, Miss. Beatrice Irene
+yes,female,24.0,3rd,Sandstrom, Mrs. Hjalmar (Agnes
+yes,female,4.0,3rd,Sandstrom, Miss. Marguerite Rut
+yes,male,25.0,3rd,Sap, Mr. Julius
+no,male,20.0,3rd,Saundercock, Mr. William Henry
+no,male,24.5,3rd,Sawyer, Mr. Frederick Charles
+no,male,,3rd,Scanlan, Mr. James
+no,male,,3rd,Sdycoff, Mr. Todor
+no,male,,3rd,Shaughnessy, Mr. Patrick
+yes,male,29.0,3rd,Sheerlinck, Mr. Jan Baptist
+no,male,,3rd,Shellard, Mr. Frederick William
+yes,female,,3rd,Shine, Miss. Ellen Natalia
+no,male,,3rd,Shorney, Mr. Charles Joseph
+no,male,,3rd,Simmons, Mr. John
+no,male,22.0,3rd,Sirayanian, Mr. Orsen
+no,male,,3rd,Sirota, Mr. Maurice
+no,male,40.0,3rd,Sivic, Mr. Husein
+no,male,21.0,3rd,Sivola, Mr. Antti Wilhelm
+yes,female,18.0,3rd,Sjoblom, Miss. Anna Sofia
+no,male,4.0,3rd,Skoog, Master. Harald
+no,male,10.0,3rd,Skoog, Master. Karl Thorsten
+no,female,9.0,3rd,Skoog, Miss. Mabel
+no,female,2.0,3rd,Skoog, Miss. Margit Elizabeth
+no,male,40.0,3rd,Skoog, Mr. Wilhelm
+no,female,45.0,3rd,Skoog, Mrs. William (Anna Bernh
+no,male,,3rd,Slabenoff, Mr. Petco
+no,male,,3rd,Slocovski, Mr. Selman Francis
+no,male,,3rd,Smiljanic, Mr. Mile
+no,male,,3rd,Smith, Mr. Thomas
+yes,female,,3rd,Smyth, Miss. Julia
+no,male,19.0,3rd,Soholt, Mr. Peter Andreas Lauri
+no,male,30.0,3rd,Somerton, Mr. Francis William
+no,male,,3rd,Spector, Mr. Woolf
+no,male,32.0,3rd,Spinner, Mr. Henry John
+no,male,,3rd,Staneff, Mr. Ivan
+no,male,33.0,3rd,Stankovic, Mr. Ivan
+yes,female,23.0,3rd,Stanley, Miss. Amy Zillah Elsie
+no,male,21.0,3rd,Stanley, Mr. Edward Roland
+no,male,60.5,3rd,Storey, Mr. Thomas
+no,male,19.0,3rd,Stoytcheff, Mr. Ilia
+no,female,22.0,3rd,Strandberg, Miss. Ida Sofia
+yes,male,31.0,3rd,Stranden, Mr. Juho
+no,male,27.0,3rd,Strilic, Mr. Ivan
+no,female,2.0,3rd,Strom, Miss. Telma Matilda
+no,female,29.0,3rd,Strom, Mrs. Wilhelm (Elna Matil
+yes,male,16.0,3rd,Sunderland, Mr. Victor Francis
+yes,male,44.0,3rd,Sundman, Mr. Johan Julian
+no,male,25.0,3rd,Sutehall, Mr. Henry Jr
+no,male,74.0,3rd,Svensson, Mr. Johan
+yes,male,14.0,3rd,Svensson, Mr. Johan Cervin
+no,male,24.0,3rd,Svensson, Mr. Olof
+yes,male,25.0,3rd,Tenglin, Mr. Gunnar Isidor
+no,male,34.0,3rd,Theobald, Mr. Thomas Leonard
+yes,male,0.417,3rd,Thomas, Master. Assad Alexander
+no,male,,3rd,Thomas, Mr. Charles P
+no,male,,3rd,Thomas, Mr. John
+no,male,,3rd,Thomas, Mr. Tannous
+yes,female,16.0,3rd,Thomas, Mrs. Alexander (Thamine
+no,male,,3rd,Thomson, Mr. Alexander Morrison
+no,male,,3rd,Thorneycroft, Mr. Percival
+yes,female,,3rd,Thorneycroft, Mrs. Percival (Fl
+no,male,32.0,3rd,Tikkanen, Mr. Juho
+no,male,,3rd,Tobin, Mr. Roger
+no,male,,3rd,Todoroff, Mr. Lalio
+no,male,30.5,3rd,Tomlin, Mr. Ernest Portage
+no,male,44.0,3rd,Torber, Mr. Ernst William
+no,male,,3rd,Torfa, Mr. Assad
+yes,male,25.0,3rd,Tornquist, Mr. William Henry
+no,male,,3rd,Toufik, Mr. Nakli
+yes,male,7.0,3rd,Touma, Master. Georges Youssef
+yes,female,9.0,3rd,Touma, Miss. Maria Youssef
+yes,female,29.0,3rd,Touma, Mrs. Darwis (Hanne Youss
+no,male,36.0,3rd,Turcin, Mr. Stjepan
+yes,female,18.0,3rd,Turja, Miss. Anna Sofia
+yes,female,63.0,3rd,Turkula, Mrs. (Hedwig)
+no,male,,3rd,van Billiard, Master. James Wil
+no,male,11.5,3rd,van Billiard, Master. Walter Jo
+no,male,40.5,3rd,van Billiard, Mr. Austin Blyler
+no,female,10.0,3rd,Van Impe, Miss. Catharina
+no,male,36.0,3rd,Van Impe, Mr. Jean Baptiste
+no,female,30.0,3rd,Van Impe, Mrs. Jean Baptiste (R
+no,male,,3rd,van Melkebeke, Mr. Philemon
+no,male,33.0,3rd,Vande Velde, Mr. Johannes Josep
+no,male,28.0,3rd,Vande Walle, Mr. Nestor Cyriel
+no,male,28.0,3rd,Vanden Steen, Mr. Leo Peter
+no,male,47.0,3rd,Vander Cruyssen, Mr. Victor
+no,female,18.0,3rd,Vander Planke, Miss. Augusta Ma
+no,male,31.0,3rd,Vander Planke, Mr. Julius
+no,male,16.0,3rd,Vander Planke, Mr. Leo Edmondus
+no,female,31.0,3rd,Vander Planke, Mrs. Julius (Eme
+yes,male,22.0,3rd,Vartanian, Mr. David
+no,male,20.0,3rd,Vendel, Mr. Olof Edvin
+no,female,14.0,3rd,Vestrom, Miss. Hulda Amanda Ado
+no,male,22.0,3rd,Vovk, Mr. Janko
+no,male,22.0,3rd,Waelens, Mr. Achille
+no,male,,3rd,Ware, Mr. Frederick
+no,male,,3rd,Warren, Mr. Charles William
+no,male,,3rd,Webber, Mr. James
+no,male,32.5,3rd,Wenzel, Mr. Linhart
+yes,female,38.0,3rd,Whabee, Mrs. George Joseph (Sha
+no,male,51.0,3rd,Widegren, Mr. Carl/Charles Pete
+no,male,18.0,3rd,Wiklund, Mr. Jakob Alfred
+no,male,21.0,3rd,Wiklund, Mr. Karl Johan
+yes,female,47.0,3rd,Wilkes, Mrs. James (Ellen Needs
+no,male,,3rd,Willer, Mr. Aaron (Abi Weller
+no,male,,3rd,Willey, Mr. Edward
+no,male,,3rd,Williams, Mr. Howard Hugh Harr
+no,male,28.5,3rd,Williams, Mr. Leslie
+no,male,21.0,3rd,Windelov, Mr. Einar
+no,male,27.0,3rd,Wirz, Mr. Albert
+no,male,,3rd,Wiseman, Mr. Phillippe
+no,male,36.0,3rd,Wittevrongel, Mr. Camille
+no,male,27.0,3rd,Yasbeck, Mr. Antoni
+yes,female,15.0,3rd,Yasbeck, Mrs. Antoni (Selini Al
+no,male,45.5,3rd,Youseff, Mr. Gerious
+no,male,,3rd,Yousif, Mr. Wazli
+no,male,,3rd,Yousseff, Mr. Gerious
+no,female,14.5,3rd,Zabour, Miss. Hileni
+no,female,,3rd,Zabour, Miss. Thamine
+no,male,26.5,3rd,Zakarian, Mr. Mapriededer
+no,male,27.0,3rd,Zakarian, Mr. Ortin
+no,male,29.0,3rd,Zimmerman, Mr. Leo
